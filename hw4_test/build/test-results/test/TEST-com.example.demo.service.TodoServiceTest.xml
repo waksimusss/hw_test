@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.service.TodoServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-05-24T16:28:10" hostname="DESKTOP-3ADA3CM" time="0.472">
+  <properties/>
+  <testcase name="add_Test()" classname="com.example.demo.service.TodoServiceTest" time="0.46"/>
+  <testcase name="deleteById_Test()" classname="com.example.demo.service.TodoServiceTest" time="0.007"/>
+  <testcase name="getAll_Test()" classname="com.example.demo.service.TodoServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
